@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sleviapack:blocks/sfasfsaf",
+    "up": "sleviapack:blocks/sfasfsaf",
+    "north": "sleviapack:blocks/sfasfsaf",
+    "east": "sleviapack:blocks/sfasfsaf",
+    "south": "sleviapack:blocks/sfasfsaf",
+    "west": "sleviapack:blocks/sfasfsaf",
+    "particle": "sleviapack:blocks/sfasfsaf"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Денежный Принтер",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Денежный Принтер",
+          "x": 254,
+          "y": 77
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 0,
+          "name": "Slot #0",
+          "x": 390,
+          "y": 197
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "print",
+          "onClick": {
+            "name": "Acaa"
+          },
+          "width": 120,
+          "height": 40,
+          "name": "print",
+          "x": 264,
+          "y": 195
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "CUSTOM:Qwert"
+          },
+          "id": 1,
+          "name": "Slot #1",
+          "x": 273,
+          "y": 107
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 2,
+          "name": "Slot #2",
+          "x": 273,
+          "y": 141
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Картридж",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Картридж",
+          "x": 308,
+          "y": 141
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Спец. ткань",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Спец. ткань",
+          "x": 308,
+          "y": 106
+        }
+      }
+    ]
+  }
+}

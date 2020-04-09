@@ -1,0 +1,16 @@
+{
+  "group": "sleviapack",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "sleviapack:ffav"
+    }
+  },
+  "result": {
+    "item": "sleviapack:aa",
+    "count": 10
+  }
+}

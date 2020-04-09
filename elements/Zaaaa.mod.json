@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "gerex",
+    "customModelName": "Normal",
+    "name": "Zaaaa",
+    "creativeTab": {
+      "value": "CUSTOM:Slevia"
+    },
+    "toolType": "Special",
+    "harvestLevel": 1,
+    "efficiency": 10.0,
+    "attackSpeed": 0.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 10,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.DYE#16"
+      }
+    ]
+  }
+}

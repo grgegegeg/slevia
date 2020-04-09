@@ -1,0 +1,24 @@
+[
+  {
+    "modid": "sleviapack",
+    "name": "Slevia-pack",
+    "description": "",
+    "version": "1.0.0",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "url": "https://mcreator.net",
+    "updateUrl": "",
+    "authorList": [
+      "t2yt8h02pmsafa, MCreator"
+    ],
+    "dependencies": [
+      "mcreator_link"
+    ],
+    "dependants": [],
+    "requiredMods": [
+      "mcreator_link"
+    ],
+    "useDependencyInformation": "true"
+  }
+]
